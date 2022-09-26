@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493875810136",
+    "firebase_url": "https://targetshooting-4f538-default-rtdb.firebaseio.com",
+    "project_id": "targetshooting-4f538",
+    "storage_bucket": "targetshooting-4f538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493875810136:android:a0438d7227b680d7699f2d",
+        "android_client_info": {
+          "package_name": "com.example.targetshootingmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493875810136-3f9r3vki1jmvvavsv1hko5pg07e1dq8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACrPXXSDAerhdagdJ7vJEuejB8HOIHjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493875810136-3f9r3vki1jmvvavsv1hko5pg07e1dq8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
